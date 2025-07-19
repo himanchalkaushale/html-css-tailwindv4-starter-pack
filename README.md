@@ -6,7 +6,7 @@ This is a simple starter pack for Tailwind CSS v4.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/himanchalkaushale/html-css-tailwindv4-starter-pack
     cd my-project
     ```
 
